@@ -8,7 +8,7 @@ See: [Advanced Compilation and Externs](https://developers.google.com/closure/co
 #### Naming convention ####
 
 * Externs for core components are all lower case
-* Externs for [non-core components](https://github.com/dcodeIO/node.js-closure-compiler-externs/tree/master/contrib) begin with an upper case character
+- Externs for [non-core components](https://github.com/dcodeIO/node.js-closure-compiler-externs/tree/master/contrib) begin with an upper case character
 
 #### Node.js specific annotation ####
 
